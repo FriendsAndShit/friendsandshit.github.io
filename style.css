@@ -177,7 +177,9 @@ body {
 #button-minecraft {
 	border: 2px solid #002A00;
 	color: #000000;
-	transition: background-color 0.2s, color 0.2s
+	transition: background-color 0.2s, color 0.2s;
+	width: 100%!important;
+	max-width: 100%!important;
 }
 
 #button-minecraft:hover {
